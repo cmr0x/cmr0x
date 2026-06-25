@@ -1,7 +1,13 @@
 ## Hello, I'm cmr0x 👋
 
-Software developer focused on building clean, practical solutions. I enjoy working across the stack and learning new things along the way.
+I'm a graduating full-stack developer from Asia, currently building web apps with the JavaScript ecosystem. I enjoy turning ideas into functional, good-looking software — one commit at a time.
 
-- ⚡ Currently working on personal projects in web development
-- 🌱 Exploring TypeScript, Go, and cloud deployment
-- 📫 Reach me at: celmirh.dev@gmail.com
+**Stack I work with:**
+React · Next.js · TypeScript · Node.js · Express · Tailwind CSS · PostgreSQL · Prisma · Git
+
+**What I'm up to:**
+- 🔭 Building full-stack web apps to sharpen my skills
+- 🌱 Deepening my knowledge of TypeScript and backend architecture
+- 👀 Open to junior developer opportunities
+
+**Reach me:** [celmirh.dev@gmail.com](mailto:celmirh.dev@gmail.com)
