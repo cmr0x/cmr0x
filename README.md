@@ -1,6 +1,6 @@
 ## Hello, I'm cmr0x 👋
 
-I'm a graduating full-stack developer from Asia, currently building web apps with the JavaScript ecosystem. I enjoy turning ideas into functional, good-looking software — one commit at a time.
+I'm a full-stack developer from Asia, currently building web apps with the Typescript ecosystem. I enjoy turning ideas into functional, good-looking software — one commit at a time.
 
 **Stack I work with:**
 React · Next.js · TypeScript · Node.js · Express · Tailwind CSS · PostgreSQL · Prisma · Git
