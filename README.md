@@ -62,7 +62,7 @@ I'm actively deepening my skills in areas that matter for building production-re
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cmr0x&theme=tokyonight)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cmr0x&layout=compact&theme=tokyonight&hide_border=true)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 </div>
 
