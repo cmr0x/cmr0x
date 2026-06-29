@@ -1,14 +1,11 @@
 <div align="center">
 
-# **cmr0x**
-
 ```
-███╗   ███╗██╗ ██████╗██████╗  ██████╗ ███████╗
-████╗ ████║██║██╔════╝██╔══██╗██╔═══██╗██╔════╝
-██╔████╔██║██║██║     ██████╔╝██║   ██║███████╗
-██║╚██╔╝██║██║██║     ██╔═══╝ ██║   ██║╚════██║
-██║ ╚═╝ ██║██║╚██████╗██║     ╚██████╔╝███████║
-╚═╝     ╚═╝╚═╝ ╚═════╝╚═╝      ╚═════╝ ╚══════╝
+   ____ __  __ ____   _____  __
+  / ___|  \/  |  _ \ / _ \ \/ /
+ | |   | |\/| | |_) | | | \  / 
+ | |___| |  | |  _ <| |_| /  \ 
+  \____|_|  |_|_| \_\\___/_/\_\
 ```
 
 ### I turn complex problems into clean, functional software — one commit at a time.
@@ -59,13 +56,13 @@ I'm actively deepening my skills in areas that matter for building production-re
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmr0x&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cmr0x&theme=tokyonight)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cmr0x&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cmr0x&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
