@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a self-taught full-stack developer driven by curiosity and an obsession with solving problems the *right* way. I build web applications end-to-end with the TypeScript ecosystem, focusing on clean architecture and thoughtful tradeoffs. I believe great code isn't just about making it work — it's about making it understandable.
+I'm a graduate of B.S Computer Science, a full-stack developer driven by curiosity and an obsession with solving problems the *right* way. I build web applications end-to-end with the TypeScript ecosystem, focusing on clean architecture and thoughtful tradeoffs. I believe great code isn't just about making it work — it's about making it understandable.
 
 ---
 
